@@ -17,4 +17,3 @@ Download file `GDP set.pbix` for an in-depth overview and interactivity of the d
 ![Dashboard Overview](Dashboard.PNG)
 
 ---
-*Created as part of my data analytics portfolio.*
