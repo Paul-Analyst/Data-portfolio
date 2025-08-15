@@ -1,7 +1,3 @@
----
-title: Paul Oluniyi — Data Portfolio
-layout: default
----
 
 # Data Portfolio
 
