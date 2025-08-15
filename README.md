@@ -14,5 +14,5 @@ Welcome to my data analytics portfolio. This repository showcases selected **Exc
 Excel (Power Query, PivotTables, Charts) · Power BI (DAX, Data Modeling) · SQL (basic) · Data Cleaning · KPI Design · Dashboarding
 
 ## Contact
-- **LinkedIn:**  linkedin.com/in/paul-wale-oluniyi
-- **Email:** oluniyipaul001@gmail.com
+- **LinkedIn:**  [Paul Oluniyi](https://linkedin.com/in/paul-wale-oluniyi) 
+- **Email:** oluniyipaul001@gmail.com 
