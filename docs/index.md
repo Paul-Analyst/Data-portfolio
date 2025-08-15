@@ -8,8 +8,8 @@ Welcome to my data analytics portfolio. Here you'll find selected Excel and Powe
 **Description:**  
 An Excel-based interactive sales analysis dashboard for Cars45, tracking sales trends, regional performance, and product mix.
 
-**Live View (GitHub)** → [Cars45](https://https://github.com/Paul-Analyst/Data-portfolio/blob/main/Excel/Cars45-Sales-Report/README.md)  
-**Download Report (.xlsx)** → [Cars45 Sales Report](https://https://github.com/Paul-Analyst/Data-portfolio/blob/main/Excel/Cars45-Sales-Report/car45_data.xlsx)
+**Live View (GitHub)** → [Cars45](https://github.com/Paul-Analyst/Data-portfolio/blob/main/Excel/Cars45-Sales-Report/README.md)  
+**Download Report (.xlsx)** → [Cars45 Sales Report](https://github.com/Paul-Analyst/Data-portfolio/blob/main/Excel/Cars45-Sales-Report/car45_data.xlsx)
 
 ---
 
@@ -17,8 +17,8 @@ An Excel-based interactive sales analysis dashboard for Cars45, tracking sales t
 **Description:**  
 A Power BI dashboard analyzing Titanic passenger data by age, gender, class, and survival rates.
 
-**Live View (GitHub)** → [Titanic](https://https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/README.md)  
-**Download Report (.pbix)** → [Titanic Dashboard](https://https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/Titanic%20set.pbix)
+**Live View (GitHub)** → [Titanic](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/README.md)  
+**Download Report (.pbix)** → [Titanic Dashboard](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/Titanic%20set.pbix)
 
 ---
 
@@ -26,8 +26,8 @@ A Power BI dashboard analyzing Titanic passenger data by age, gender, class, and
 **Description:**  
 A Power BI dashboard exploring GDP trends by country and year, highlighting top and bottom performers.
 
-**Live View (GitHub)** → [GDP](https://https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/README.md)  
-**Download Report (.pbix)** → [GDP Dashboard](https://https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/GDP%20set.pbix)
+**Live View (GitHub)** → [GDP](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/README.md)  
+**Download Report (.pbix)** → [GDP Dashboard](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/GDP%20set.pbix)
 
 ---
 
