@@ -1,4 +1,4 @@
-# Cars45 Sales Report (Excel)
+# Cars45 Sales Report
 
 **Goal:** Analyze sales performance, identify top-selling vehicle models, and track monthly revenue trends for Cars45.
 
@@ -11,6 +11,7 @@
 - `car45_data.xlsx` — Main dashboard file.
 - `Table.PNG  Pivots.PNG  dashboard.PNG` — Screenshots and visuals.
 
+Download file `car45_data.xlsx` for an in-depth overview and interactivity of the dashboard.
 ## Screenshots
 ![Dashboard Overview](dashboard.PNG)
 
