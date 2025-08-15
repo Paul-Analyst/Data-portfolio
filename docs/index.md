@@ -32,5 +32,6 @@ A Power BI dashboard exploring GDP trends by country and year, highlighting top 
 ---
 
 ### 📬 Contact
-📧 Email: (oluniyipaul001@gmail.com)  
+📧 Email: oluniyipaul001@gmail.com
+
 🔗 LinkedIn: [Paul Oluniyi](https://linkedin.com/in/paul-wale-oluniyi)  
