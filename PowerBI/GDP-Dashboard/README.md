@@ -1,19 +1,20 @@
-# Global GDP Analysis Dashboard (Power BI)
+# Global GDP Analysis Dashboard
 
 **Goal:** Track GDP growth trends, compare countries, and identify highest and lowest GDP years.
 
 **Highlights**
 - Built interactive dashboard to monitor and analyze key metrics.
 - **Impact:** Enabled quick macroeconomic comparisons across countries for policy and research purposes.
-- Tools: Power BI (DAX Measures, Hierarchies, Filters)
+- Tools: Power Query, Power BI (DAX Measures, Hierarchies, Filters)
 
 ## Files
-- `dashboard.xlsx` or `.pbix`/`.pbit` — Main dashboard file.
-- `report.pdf` — Exported report for offline viewing.
-- `assets/` — Screenshots and visuals.
+- `GDP set.pbix` — Main dashboard file.
+- `GDP set.pdf` — Exported report for offline viewing.
+- `Dashboard.PNG  Table.PNG  Model.PNG` — Screenshots and visuals.
 
+Download file `GDP set.pbix` for an in-depth overview and interactivity of the dashboard.
 ## Screenshots
-![Dashboard Overview](assets/overview.png)
+![Dashboard Overview](Dashboard.PNG)
 
 ---
 *Created as part of my data analytics portfolio.*
