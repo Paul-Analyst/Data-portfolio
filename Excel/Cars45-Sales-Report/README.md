@@ -16,4 +16,3 @@ Download file `car45_data.xlsx` for an in-depth overview and interactivity of th
 ![Dashboard Overview](dashboard.PNG)
 
 ---
-*Created as part of my data analytics portfolio.*
