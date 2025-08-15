@@ -8,12 +8,11 @@
 - Tools: Excel (PivotTables, Power Query, Conditional Formatting)
 
 ## Files
-- `dashboard.xlsx` or `.pbix`/`.pbit` — Main dashboard file.
-- `report.pdf` — Exported report for offline viewing.
-- `assets/` — Screenshots and visuals.
+- `car45_data.xlsx` — Main dashboard file.
+- `Table.PNG  Pivots.PNG  dashboard.PNG` — Screenshots and visuals.
 
 ## Screenshots
-![Dashboard Overview](assets/overview.png)
+![Dashboard Overview](dashboard.PNG)
 
 ---
 *Created as part of my data analytics portfolio.*
