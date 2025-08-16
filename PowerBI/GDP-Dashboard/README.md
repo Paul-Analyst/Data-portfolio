@@ -8,11 +8,11 @@
 - Tools: Power Query, Power BI (DAX Measures, Hierarchies, Filters)
 
 ## Files
-- `GDP set.pbix` — Main dashboard file.
-- `GDP set.pdf` — Exported report for offline viewing.
-- `Dashboard.PNG  Table.PNG  Model.PNG` — Screenshots and visuals.
+- [`GDP set.pbix`](/PowerBI/GDP-Dashboard/GDP-set.pbix) — Main dashboard file.
+- [`GDP set.pdf`](/PowerBI/GDP-Dashboard/GDP-set.pdf) — Exported report for offline viewing.
+- [`Dashboard.PNG`](/PowerBI/GDP-Dashboard/Dashboard.PNG)  [`Table.PNG`](/PowerBI/GDP-Dashboard/Table.PNG)  [`Model.PNG`](/PowerBI/GDP-Dashboard/Model.PNG) — Screenshots and visuals.
 
-Download file `GDP set.pbix` for an in-depth overview and interactivity of the dashboard.
+Download file [`GDP set.pbix`](/PowerBI/GDP-Dashboard/GDP-set.pbix) for an in-depth overview and interactivity of the dashboard.
 ## Screenshots
 ![Dashboard Overview](Dashboard.PNG)
 
