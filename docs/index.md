@@ -18,7 +18,7 @@ An Excel-based interactive sales analysis dashboard for Cars45, tracking sales t
 A Power BI dashboard analyzing Titanic passenger data by age, gender, class, and survival rates.
 
 **Live View (GitHub)** → [Titanic](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/README.md)  
-**Download Report (.pbix)** → [Titanic Dashboard](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/Titanic%20set.pbix)
+**Download Report (.pbix)** → [Titanic Dashboard](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/Titanic-Dashboard/Titanic-set.pbix)
 
 ---
 
@@ -27,7 +27,7 @@ A Power BI dashboard analyzing Titanic passenger data by age, gender, class, and
 A Power BI dashboard exploring GDP trends by country and year, highlighting top and bottom performers.
 
 **Live View (GitHub)** → [GDP](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/README.md)  
-**Download Report (.pbix)** → [GDP Dashboard](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/GDP%20set.pbix)
+**Download Report (.pbix)** → [GDP Dashboard](https://github.com/Paul-Analyst/Data-portfolio/blob/main/PowerBI/GDP-Dashboard/GDP-set.pbix)
 
 ---
 
