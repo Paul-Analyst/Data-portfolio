@@ -8,10 +8,10 @@
 - Tools: Excel (PivotTables, Power Query, Conditional Formatting)
 
 ## Files
-- `car45_data.xlsx` — Main dashboard file.
-- `Table.PNG  Pivots.PNG  dashboard.PNG` — Screenshots and visuals.
+- [`car45_data.xlsx`](/Excel/Cars45-Sales-Report/car45_data.xlsx) — Main dashboard file.
+- [`dashboard.PNG`](/Excel/Cars45-Sales-Report/dashboard.PNG) [`Table.PNG`](/Excel/Cars45-Sales-Report/Table.PNG)  [`Pivots.PNG`](/Excel/Cars45-Sales-Report/Pivots.PNG) — Screenshots and visuals.
 
-Download file [`car45_data.xlsx`](Excel/Cars45-Sales-Report/car45_data.xlsx) for an in-depth overview and interactivity of the dashboard.
+Download file [`car45_data.xlsx`](/Excel/Cars45-Sales-Report/car45_data.xlsx) for an in-depth overview and interactivity of the dashboard.
 ## Screenshots
 ![Dashboard Overview](dashboard.PNG)
 
