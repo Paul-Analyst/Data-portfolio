@@ -9,7 +9,7 @@
 
 ## Files
 - `GDP set.pbix` — Main dashboard file.
-- `GDP set.pdf`(GDP set.pdf) — Exported report for offline viewing.
+- `GDP set.pdf` — Exported report for offline viewing.
 - `Dashboard.PNG  Table.PNG  Model.PNG` — Screenshots and visuals.
 
 Download file `GDP set.pbix` for an in-depth overview and interactivity of the dashboard.
