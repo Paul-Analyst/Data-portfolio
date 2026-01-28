@@ -1,1 +1,74 @@
+🏆 Corporate Workforce Intelligence & Decision Engine (CWIDE)
+📌 Project Overview
 
+This project simulates a real-world corporate analytics system built using SQL and Power BI to evaluate employee performance, compensation fairness, workload, and attrition risk.
+
+The system helps organizations make data-driven workforce decisions such as:
+
+identifying underpaid high performers
+
+detecting burnout risks
+
+predicting employee turnover
+
+measuring productivity vs compensation
+
+evaluating departmental workforce health
+
+🧠 Business Questions Solved
+
+Are employees paid fairly across roles and departments?
+
+Who are the high performers and hidden talents?
+
+Which employees are at risk of burnout or resignation?
+
+How does workload impact performance?
+
+Which departments have the highest attrition risk?
+
+Are there gender or role-based pay gaps?
+
+🗂️ Data Model
+
+The project uses a star-schema architecture:
+
+Dimension tables:
+
+dim_employee
+
+dim_time
+
+Fact tables:
+
+fact_salary
+
+fact_performance
+
+fact_workload
+
+fact_attrition
+
+🛠️ Tools & Skills Used
+
+SQL (CTEs, Window Functions, CASE, Joins, Subqueries)
+
+Data Modeling (Star Schema)
+
+Power BI (Dashboard Design)
+
+Business Analytics & HR Intelligence
+
+📊 Key Insights
+
+Identified underpaid high-performing employees.
+
+Detected burnout risks based on workload and performance trends.
+
+Predicted potential employee attrition using SQL logic.
+
+Highlighted departments with compensation and workload imbalance.
+
+🚀 Outcome
+
+This project demonstrates advanced SQL analytics and real-world business problem solving, similar to enterprise HR and workforce intelligence systems.
